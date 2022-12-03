@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/hypT3XF/banner.webp)
+![MasterHead](https://i.ibb.co/LSh83qT/mern-stack-header-codewave.jpg)
 
 
  <h1 align="center">Hi 👋, I'm Abu Bokor Suraj</h1>
