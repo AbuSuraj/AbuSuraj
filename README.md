@@ -24,7 +24,7 @@
 <p align="left">
 <a href="https://twitter.com/@abu_suraj112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abu_suraj112" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/abu-bokor-suraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abu-bokor-suraj" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/abusuraj112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/abusuraj112" height="30" width="40" /></a>
+<a href="abusura112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/abusuraj112" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/abusurajbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/abusurajbd" height="30" width="40" /></a>
 </p>
 
