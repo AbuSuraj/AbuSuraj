@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/hypT3XF/banner.webp)
+![MasterHead](https://i.ibb.co/hypT3XF/banner.webp)
 
 <h1 align="center">Hi 👋, I'm Abu Bokor Suraj</h1>
 <h3 align="center">A passionate MERN stack developer from Sylhet, Bangladesh</h3>
