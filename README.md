@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [XpertSolvers](https://xpertsolvers.com/)
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-c9bc2.web.app/](https://portfolio-c9bc2.web.app/)
 
