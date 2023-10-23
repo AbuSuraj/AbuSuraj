@@ -38,7 +38,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abusuraj&show_icons=true&locale=en&layout=compact" alt="abusuraj" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abusuraj&show_icons=true&locale=en" alt="abusuraj" /></p>
-<img src= "[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abusuraj)](https://github.com/anuraghazra/github-readme-stats)"]
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abusuraj&" alt="abusuraj" /></p>
  
