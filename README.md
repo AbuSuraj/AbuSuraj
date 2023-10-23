@@ -40,5 +40,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abusuraj&show_icons=true&locale=en" alt="abusuraj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abusuraj&" alt="abusuraj" /></p>
-### :fire: My Stats : https://github-readme-streak-stats.herokuapp.com/?user=abusuraj
+<p> <img src="https://github-readme-streak-stats.herokuapp.com/?user=abusuraj" </p>
 
