@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-c9bc2.web.app/](https://portfolio-c9bc2.web.app/)
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MEAN & MERN**
 
 - 📫 How to reach me **abusurajbd@gmail.com**
 
