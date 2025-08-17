@@ -2,7 +2,7 @@
 
 
  <h1 align="center">Hi 👋, I'm Abu Bokor Suraj</h1>
-<h3 align="center">A passionate MERN stack developer from Sylhet, Bangladesh</h3>
+<h3 align="center">A passionate Software Engineer from Sylhet, Bangladesh</h3>
 
 
 
@@ -12,9 +12,9 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/abu_suraj112" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/abu_suraj112?logo=twitter&style=for-the-badge" alt="https://twitter.com/abu_suraj112" /></a> </p>
 
-- 🔭 I’m currently working on [XpertSolvers](https://xpertsolvers.com/)
+- 🔭 I’m currently working on [welldev](https://www.welldev.io)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-c9bc2.web.app/](https://portfolio-c9bc2.web.app/)
 
